@@ -14,3 +14,9 @@ capybara-*.html
 **.orig
 rerun.txt
 pickle-email-*.html
+
+# Mac OS X
+.DS_Store
+
+# IDEA RubyMine
+.idea
