@@ -11,10 +11,10 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120527081352) do
+ActiveRecord::Schema.define(:version => 20120527143411) do
 
   create_table "figures", :force => true do |t|
-    t.integer  "serie_id"
+    t.integer  "series_id"
     t.integer  "number"
     t.string   "name"
     t.string   "url"

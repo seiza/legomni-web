@@ -1,7 +1,7 @@
 class CreateFigures < ActiveRecord::Migration
   def change
     create_table :figures do |t|
-      t.integer :serie_id
+      t.integer :series_id
       t.integer :number
       t.string :name
       t.string :url

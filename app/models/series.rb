@@ -1,3 +1,3 @@
-class Serie < ActiveRecord::Base
+class Series < ActiveRecord::Base
   attr_accessible :color, :number, :url
 end

@@ -17,7 +17,7 @@ class SeriesControllerTest < ActionController::TestCase
   end
 
   test "should create series" do
-    assert_difference('Serie.count') do
+    assert_difference('Series.count') do
       post :create, series: { color: @series.color, number: @series.number, url: @series.url }
     end
 
@@ -40,10 +40,10 @@ class SeriesControllerTest < ActionController::TestCase
   end
 
   test "should destroy series" do
-    assert_difference('Serie.count', -1) do
+    assert_difference('Series.count', -1) do
       delete :destroy, id: @series
     end
 
-    assert_redirected_to series_path
+    assert_redirected_to series_index_path
   end
 end
