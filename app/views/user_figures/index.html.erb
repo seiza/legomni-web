@@ -1,0 +1,31 @@
+<h1>Listing user_figures</h1>
+
+<table>
+  <tr>
+    <th>User</th>
+    <th>Figure</th>
+    <th>Count</th>
+    <th>Wanted</th>
+    <th>First at</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @user_figures.each do |user_figure| %>
+  <tr>
+    <td><%= user_figure.user_id %></td>
+    <td><%= user_figure.figure_id %></td>
+    <td><%= user_figure.count %></td>
+    <td><%= user_figure.wanted %></td>
+    <td><%= user_figure.first_at %></td>
+    <td><%= link_to 'Show', user_figure %></td>
+    <td><%= link_to 'Edit', edit_user_figure_path(user_figure) %></td>
+    <td><%= link_to 'Destroy', user_figure, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New User figure', new_user_figure_path %>

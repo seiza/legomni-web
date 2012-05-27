@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120527143411) do
+ActiveRecord::Schema.define(:version => 20120527152313) do
 
   create_table "figures", :force => true do |t|
     t.integer  "series_id"
@@ -31,6 +31,16 @@ ActiveRecord::Schema.define(:version => 20120527143411) do
     t.integer  "number"
     t.string   "color"
     t.string   "url"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  create_table "user_figures", :force => true do |t|
+    t.integer  "user_id"
+    t.integer  "figure_id"
+    t.integer  "count"
+    t.integer  "wanted"
+    t.date     "first_at"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end

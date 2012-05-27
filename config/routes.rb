@@ -1,4 +1,6 @@
 Legomni::Application.routes.draw do
+  resources :user_figures
+
   resources :figures
 
   resources :series

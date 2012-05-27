@@ -1,0 +1,30 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>User:</b>
+  <%= @user_figure.user_id %>
+</p>
+
+<p>
+  <b>Figure:</b>
+  <%= @user_figure.figure_id %>
+</p>
+
+<p>
+  <b>Count:</b>
+  <%= @user_figure.count %>
+</p>
+
+<p>
+  <b>Wanted:</b>
+  <%= @user_figure.wanted %>
+</p>
+
+<p>
+  <b>First at:</b>
+  <%= @user_figure.first_at %>
+</p>
+
+
+<%= link_to 'Edit', edit_user_figure_path(@user_figure) %> |
+<%= link_to 'Back', user_figures_path %>
