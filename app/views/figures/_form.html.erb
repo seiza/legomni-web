@@ -1,0 +1,53 @@
+<%= form_for(@figure) do |f| %>
+  <% if @figure.errors.any? %>
+    <div id="error_explanation">
+      <h2><%= pluralize(@figure.errors.count, "error") %> prohibited this figure from being saved:</h2>
+
+      <ul>
+      <% @figure.errors.full_messages.each do |msg| %>
+        <li><%= msg %></li>
+      <% end %>
+      </ul>
+    </div>
+  <% end %>
+
+  <div class="field">
+    <%= f.label :serie_id %><br />
+    <%= f.number_field :serie_id %>
+  </div>
+  <div class="field">
+    <%= f.label :number %><br />
+    <%= f.number_field :number %>
+  </div>
+  <div class="field">
+    <%= f.label :name %><br />
+    <%= f.text_field :name %>
+  </div>
+  <div class="field">
+    <%= f.label :url %><br />
+    <%= f.text_field :url %>
+  </div>
+  <div class="field">
+    <%= f.label :slogan %><br />
+    <%= f.text_field :slogan %>
+  </div>
+  <div class="field">
+    <%= f.label :description %><br />
+    <%= f.text_field :description %>
+  </div>
+  <div class="field">
+    <%= f.label :strength %><br />
+    <%= f.number_field :strength %>
+  </div>
+  <div class="field">
+    <%= f.label :creativity %><br />
+    <%= f.number_field :creativity %>
+  </div>
+  <div class="field">
+    <%= f.label :speed %><br />
+    <%= f.number_field :speed %>
+  </div>
+  <div class="actions">
+    <%= f.submit %>
+  </div>
+<% end %>

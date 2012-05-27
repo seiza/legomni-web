@@ -1,0 +1,39 @@
+<h1>Listing figures</h1>
+
+<table>
+  <tr>
+    <th>Serie</th>
+    <th>Number</th>
+    <th>Name</th>
+    <th>Url</th>
+    <th>Slogan</th>
+    <th>Description</th>
+    <th>Strength</th>
+    <th>Creativity</th>
+    <th>Speed</th>
+    <th></th>
+    <th></th>
+    <th></th>
+  </tr>
+
+<% @figures.each do |figure| %>
+  <tr>
+    <td><%= figure.serie_id %></td>
+    <td><%= figure.number %></td>
+    <td><%= figure.name %></td>
+    <td><%= figure.url %></td>
+    <td><%= figure.slogan %></td>
+    <td><%= figure.description %></td>
+    <td><%= figure.strength %></td>
+    <td><%= figure.creativity %></td>
+    <td><%= figure.speed %></td>
+    <td><%= link_to 'Show', figure %></td>
+    <td><%= link_to 'Edit', edit_figure_path(figure) %></td>
+    <td><%= link_to 'Destroy', figure, confirm: 'Are you sure?', method: :delete %></td>
+  </tr>
+<% end %>
+</table>
+
+<br />
+
+<%= link_to 'New Figure', new_figure_path %>

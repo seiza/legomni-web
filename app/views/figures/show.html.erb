@@ -1,0 +1,50 @@
+<p id="notice"><%= notice %></p>
+
+<p>
+  <b>Serie:</b>
+  <%= @figure.serie_id %>
+</p>
+
+<p>
+  <b>Number:</b>
+  <%= @figure.number %>
+</p>
+
+<p>
+  <b>Name:</b>
+  <%= @figure.name %>
+</p>
+
+<p>
+  <b>Url:</b>
+  <%= @figure.url %>
+</p>
+
+<p>
+  <b>Slogan:</b>
+  <%= @figure.slogan %>
+</p>
+
+<p>
+  <b>Description:</b>
+  <%= @figure.description %>
+</p>
+
+<p>
+  <b>Strength:</b>
+  <%= @figure.strength %>
+</p>
+
+<p>
+  <b>Creativity:</b>
+  <%= @figure.creativity %>
+</p>
+
+<p>
+  <b>Speed:</b>
+  <%= @figure.speed %>
+</p>
+
+
+<%= link_to 'Edit', edit_figure_path(@figure) %> |
+<%= link_to 'Back', figures_path %>

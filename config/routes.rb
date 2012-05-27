@@ -1,4 +1,10 @@
 Legomni::Application.routes.draw do
+  resources :figures
+
+  resources :series
+
+  resources :users
+
   # The priority is based upon order of creation:
   # first created -> highest priority.
 
