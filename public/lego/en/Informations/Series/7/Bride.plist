@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Bride</string>
+	<key>Index</key>
+	<integer>4</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Bride.aspx</string>
+	<key>Slogan</key>
+	<string>I do!</string>
+	<key>Description</key>
+	<string>The Bride has been busy getting ready for her big day! All of the invitations have been sent out, the floral arrangements are arranged, the banquet is prepared and the facilities are perfect. The cake has just the right number of layers, her gown and veil are as beautiful as she always dreamed they would be, and the groom looks so handsome in his tuxedo and bow tie.
+
+Everything is ready…now the wedding just needs to go off without any problems! What if a guest is allergic to the salad, or somebody drops the cake, or a swarm of bees goes after the flowers, or alien attack-bots crash in the middle of the ceremony? There’s so much that could go wrong today – here’s hoping it all works out!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

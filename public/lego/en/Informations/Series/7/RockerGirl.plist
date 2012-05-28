@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Rocker Girl</string>
+	<key>Index</key>
+	<integer>15</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Rocker%20Girl.aspx</string>
+	<key>Slogan</key>
+	<string>I’m the best and I know it!</string>
+	<key>Description</key>
+	<string>Whatever you may say about the punky, pink-haired Rocker Girl, you can’t ever call her humble! From her clothes to her music, she goes through life with complete confidence in herself. She knows she looks and sounds awesome up there on stage with smoke and lasers flashing all around, and she lives for the way the crowd roars with excitement when she starts playing that next power chord.
+
+The Rocker Girl’s unshakeable self-confidence has always been her greatest strength. No matter what troubles she faces – cancelled shows, electrical failures and bad cases of rockin’ pneumonia – she always powers right on through, knowing that her next performance will be the greatest one yet. And the best thing of all is that she’s right!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

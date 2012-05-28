@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Swimming Champion</string>
+	<key>Index</key>
+	<integer>1</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Swimming%20Champion.aspx</string>
+	<key>Slogan</key>
+	<string>It’s all in the kicking!</string>
+	<key>Description</key>
+	<string>When you’re as accomplished a swimmer as the Swimming Champion is, you’ve got to work hard to find newer and bigger challenges for yourself. After all, once you’ve won the gold medal in every competitive swimming event around the world, what else is there to do but start making up your own extreme aquatic sports?
+
+Her quest to find new ways to test her limits has taken the Swimming Champion from iceberg-pushing matches at the North Pole to penguin racing in Antarctica. She’s swum her way across every ocean, lake and sea you can name, and no one’s been able to beat her for time or distance. Some people say she must be part fish, but the Ocean King swears she isn’t…though he’s definitely her number one fan!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

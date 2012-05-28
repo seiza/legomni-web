@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Computer Programmer</string>
+	<key>Index</key>
+	<integer>12</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Computer%20Programmer.aspx</string>
+	<key>Slogan</key>
+	<string>Hello, World</string>
+	<key>Description</key>
+	<string>Other computer whizzes can argue all they like about what kind of computer or operating system is the best one – the Computer Programmer knows that the only way to be a real expert is to master all of them. He knows everything there is to know about computers and how to use them, from the biggest old-time mainframes to the tiniest next-generation nanotech prototypes, and he’s always glad to share his expertise with anyone who needs his help – which is just about everyone eventually!
+
+He can debug a server in ten seconds flat, track down and wipe out even the toughest viruses, recover data from completely melted hard drives, and yes, he will help you set up your e-mail signature. In his spare time, he programs his own video games, catches up on the latest posts in his favorite web forums, and hangs out with his pet robo-cat. When you’re a skilled Computer Programmer, the future is always today!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Grandma Visitor</string>
+	<key>Index</key>
+	<integer>16</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Grandma%20Visitor.aspx</string>
+	<key>Slogan</key>
+	<string>Tra-la-la!</string>
+	<key>Description</key>
+	<string>The sweet little Grandma Visitor is skipping through the woods to pay a call on her dear old granny. With her fine red hood and a basket full of tasty treats, she’s sure she won’t run into any wicked wolves…or bands of forest bandits…or giant spiders…or nasty ogres…say, what was that noise over there behind that tree?
+
+Goodness, is that a raincloud up in the sky? Maybe this isn’t the very best day for a stroll outdoors. The woods do seem a little chilly, and it would be such a shame if she were to catch a cold. Besides, her grandmother has a whole pantry full of food already, not to mention a brand-new microwave oven. Yes, staying inside today sounds like a very good idea. She’ll try again tomorrow – and next time, she’ll bring some friends along for back-up!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

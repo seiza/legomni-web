@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Jungle Boy</string>
+	<key>Index</key>
+	<integer>10</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Jungle%20Boy.aspx</string>
+	<key>Slogan</key>
+	<string>Oooo-aaaa-oooo-aaaa-ouch!</string>
+	<key>Description</key>
+	<string>Growing up in the jungle isn’t as easy as you might think – just ask the Jungle Boy! Being raised by a family of chimpanzees seems like a lot of fun, but you sure do end up eating a lot of bugs. And swinging around on vines sounds great until you realize how slippery they are and how far down the ground is. Yep, the jungle life might be full of fresh air and freedom, but it’s also full of scrapes and bruises a-plenty.
+
+It’s neat to be able to speak the languages of the beasts, but it’s not like they have anything really interesting to say…plus, talking to a leopard doesn’t keep it from trying to eat you. And do you know how hard it is to check your text messages way out here? All things considered, after a few more nights of sleeping in trees with nothing but a loincloth for warmth, the Jungle Boy might just start thinking about moving back to civilization!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>1</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

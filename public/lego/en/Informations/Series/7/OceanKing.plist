@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Ocean King</string>
+	<key>Index</key>
+	<integer>5</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Ocean%20King.aspx</string>
+	<key>Slogan</key>
+	<string>Beware the wrath of the lord of the seas – and no splashing in the pool!</string>
+	<key>Description</key>
+	<string>Ruler of a vast underwater kingdom, the Ocean King is the master of all the world’s seas. His enchanted trident gives him absolute control of the waves and tides, and woe to any sailor who dares to anger him! Fortunately, he’s easily appeased by rare treats from the surface world, and a cookie or pizza slice (no anchovies, please!) left in just the right tide pool will usually ensure a smooth and tranquil ocean voyage.
+
+Just make sure it’s the proper kind of gift. The Ocean King doesn’t take kindly to people who drop litter into his deep blue domain, and he’s been known to summon raging storms and whirlpools if he’s having a bad day, or even just a mild headache. It might sound like an overreaction, but you try wearing a crown made of pointy gold shells all the time and see how calm you feel!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Viking Woman</string>
+	<key>Index</key>
+	<integer>13</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Viking%20Woman.aspx</string>
+	<key>Slogan</key>
+	<string>Now that the fight is over, it is time to sing!</string>
+	<key>Description</key>
+	<string>When danger threatens the village, it’s up to every Viking to help out, and the Viking Woman has proven herself to be one of the greatest warriors of them all. Stalwart and strong, she stands with sword and shield raised, ready to face and fight off any army or monster – or army of monsters – that dares to attack the wooden walls.
+
+Even after the battle, the Viking Woman’s talent continues to shine. As the keeper of the village’s lore, she knows all the great poems and ballads of her people, and can belt them out in truly impressive song. With each battle won, she adds another verse, so that the triumphs of her clan will be remembered down throughout history!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Daredevil</string>
+	<key>Index</key>
+	<integer>7</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Daredevil.aspx</string>
+	<key>Slogan</key>
+	<string>Stunts are easy…it’s all the other stuff that takes nerves of steel!</string>
+	<key>Description</key>
+	<string>No matter the stunt, no matter the danger, the dashing Daredevil risks it all for each and every spectacular show. Flaming hoops, long-distance canyon jumps and giant stomp-powered launchers are a breeze for this fearless fellow, who always keeps his cool in even the most perilous situations.
+
+It’s the normal, everyday situations that give him pause. Driving a motorcycle at full speed up a ramp and over a dozen garbage trucks is no problem – but buying stamps at the post office? Yikes! He’ll waterski blindfolded through a school of snapping cyber-sharks, but don’t ask him to find the beans at the grocery store, or he’ll run away screaming. It looks like the daring Daredevil has definitely picked the right line of work!
+Just make sure it’s the proper kind of gift. The Ocean King doesn’t take kindly to people who drop litter into his deep blue domain, and he’s been known to summon raging storms and whirlpools if he’s having a bad day, or even just a mild headache. It might sound like an overreaction, but you try wearing a crown made of pointy gold shells all the time and see how calm you feel!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

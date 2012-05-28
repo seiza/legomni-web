@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Bagpiper</string>
+	<key>Index</key>
+	<integer>6</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Bagpiper.aspx</string>
+	<key>Slogan</key>
+	<string>And here’s a little ditty my ol’ granddad taught me!</string>
+	<key>Description</key>
+	<string>Bagpiping runs in the Bagpiper’s blood. His father played the bagpipes, and so did his grandfather, his great-grandfather and their grandfathers before them, all the way back to the day the beloved musical instrument first arrived in Scotland.
+
+He’s played his pipes for weddings, marches, wrestling matches and haggis-eating contests (he’s also played them at chess tournaments and libraries, but for some reason his enthusiastic performances didn’t go over so well then). Other musical styles may come and go, but the Bagpiper knows in his heart that the bagpipes will last forever!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

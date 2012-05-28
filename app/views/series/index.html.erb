@@ -2,6 +2,7 @@
 
 <table>
   <tr>
+    <th>ID</th>
     <th>Number</th>
     <th>Color</th>
     <th>Url</th>
@@ -12,6 +13,7 @@
 
 <% @series.each do |series| %>
   <tr>
+    <td><%= series.id %></td>
     <td><%= series.number %></td>
     <td><%= series.color %></td>
     <td><%= series.url %></td>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Galaxy Patrol</string>
+	<key>Index</key>
+	<integer>8</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Galaxy%20Patrol.aspx</string>
+	<key>Slogan</key>
+	<string>No outer-space menace escapes the Galaxy Patrol!</string>
+	<key>Description</key>
+	<string>The members of the Galaxy Patrol are an elite squadron of deep-space heroes who are dispatched to the most remote and dangerous sectors of the galaxy to fight cosmic evil wherever it appears. With their heavy-duty space armor and helmet-mounted tactical computers, they’ve got the gear, the training and the attitude to always get the mission done.
+
+To join the Galaxy Patrol, you’ve got to be as tough as space-nails, able to resist the mind-control powers of a Pluuvian Brain-Beast, and capable of holding your breath in vacuum for at least 42 quarkoids. Most recruits wash out, but the ones that are left are the best of the best, ready to defend the universe from interstellar threats of any and every kind – no matter how many eyes, claws and tentacles they may have!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Evil Knight</string>
+	<key>Index</key>
+	<integer>14</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Evil%20Knight.aspx</string>
+	<key>Slogan</key>
+	<string>Surrender…to whichever boss I’m taking orders from today!</string>
+	<key>Description</key>
+	<string>The Evil Knight loves nothing better than looting, pillaging and laying waste to peaceful kingdoms. He’s worked for all of the big baddies over the years, from Basil the Bat Lord to Cedric the Bull. He even once spent a memorable summer as one of Vladek’s mystical Shadow Knights, and was delighted that he got to keep his glowing red eyes afterwards.</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

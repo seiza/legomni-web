@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Aztec Warrior</string>
+	<key>Index</key>
+	<integer>2</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Aztec%20Warrior.aspx</string>
+	<key>Slogan</key>
+	<string>No, you can’t have our gold! Go find your own!</string>
+	<key>Description</key>
+	<string>A mighty soldier of the sun, the Aztec Warrior is one of the fierce Eagle Knights of the legendary Aztec Empire. Protected by his feathered shield and beaked helmet, he battles for the glory of his empire from sunrise to sunset, never stopping for food or rest as long as there are enemies to capture and the sun shines bright in the sky.
+
+And there certainly are plenty of enemies! For some reason, people are always trying to steal the empire’s gold. Sure, it’s pretty and you can make it into some nice, shiny weapons and armor, but the Aztec Warrior doesn’t really get what the big deal is with the stuff. Sometimes he wishes the invaders would only come at night so some other warriors could deal with them instead!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

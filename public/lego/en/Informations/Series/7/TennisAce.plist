@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Tennis Ace</string>
+	<key>Index</key>
+	<integer>9</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Tennis%20Ace.aspx</string>
+	<key>Slogan</key>
+	<string>Wham! And there it goes!</string>
+	<key>Description</key>
+	<string>Some minifigures train hard all their lives to be good at their chosen sport…and then there’s the Tennis Ace. Where other tennis players might wait for the ball to come to them, he hurls himself toward it with all his strength, swinging his racket around wildly. Instead of carefully aiming the ball, he hits it in any random direction and hopes it lands inside the court’s lines.</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

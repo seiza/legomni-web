@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Bunny Suit Guy</string>
+	<key>Index</key>
+	<integer>3</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Bunny%20Suit%20Guy.aspx</string>
+	<key>Slogan</key>
+	<string>What kind of noise does a bunny make, anyway?</string>
+	<key>Description</key>
+	<string>Hippity-hop! Hippity-hop! Here he comes, hopping down the lane – it’s the happy, jolly Bunny Suit Guy! He’s got the whole outfit: the fuzzy white costume, the tall flappy ears, and even a big orange carrot to carry around. And what made him decide to dress up like a bunny? He has absolutely no idea!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>1</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Hippie</string>
+	<key>Index</key>
+	<integer>11</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Hippie.aspx</string>
+	<key>Slogan</key>
+	<string>Make LEGO® models, not war!</string>
+	<key>Description</key>
+	<string>The friendly, good-natured Hippie loves everything in the entire world. Rain and shine, day and night, puppies and kittens – they all bring a happy smile to his face. With a fashion sense that hasn’t changed since the Sixties, he never stays in the same place for long, preferring to roam across city and countryside alike, stopping only to smell the flowers and spread his simple message of peace, love and LEGO bricks.
+
+As a pioneer of the Free-Building movement, the Hippie rejects all building instructions. Instead, he believes that true creativity lies in making a big pile of your bricks and putting them together in whatever way most inspires your imagination. According to him, it’s the ultimate groovy way to reveal your true inner soul as a builder!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>
