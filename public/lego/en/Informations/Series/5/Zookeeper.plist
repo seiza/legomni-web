@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Zookeeper</string>
+	<key>Index</key>
+	<integer>7</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Zookeeper.aspx</string>
+	<key>Slogan</key>
+	<string>Now, who was it that gets the banana, and who gets the bucket of fish?</string>
+	<key>Description</key>
+	<string>The Zookeeper has loved animals ever since she first visited the monkey house at the zoo as a small child. From cats and dogs to elephants and ostriches, she’s studied every species and knows all the healthiest foods to feed them and the best habitats and activities to keep them happy.
+
+Living and working in LEGO CITY, the Zookeeper has had to look after some pretty strange creatures in her career. Of course, there are the usual camels and bats and colorful jungle frogs, but nobody ever warned her about dragons and rock monsters, not to mention what that one team of adventurers brought back from their expedition to Dino Island!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

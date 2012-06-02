@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Flamenco Dancer</string>
+	<key>Index</key>
+	<integer>6</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Flamenco%20Dancer.aspx</string>
+	<key>Slogan</key>
+	<string>Behold the blaze of el baile flamenco!</string>
+	<key>Description</key>
+	<string>The Flamenco Dancer lives for the fiery rhythm of flamenco. She knows every part by heart: the singing, the guitar, the clapping and most especially the dancing. Just follow the music as it winds through the streets and you’re sure to find her dancing with her fan in hand long into the night.
+
+The Flamenco Dancer is always looking for more ways to express her passion through dance. Recently, she has formed an unusual partnership with three other musical Minifigures: the Maraca Man, the Punk Rocker and the Hula Dancer. By combining their talents together, they’re hoping to create a whole new kind of flamenco to show off to the world!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

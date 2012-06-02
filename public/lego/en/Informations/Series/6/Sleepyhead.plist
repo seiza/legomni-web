@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Sleepyhead</string>
+	<key>Index</key>
+	<integer>3</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Sleepyhead.aspx</string>
+	<key>Slogan</key>
+	<string>Just five more minutes…</string>
+	<key>Description</key>
+	<string>Ya-a-a-awn! Is it really time to get up already? The Sleepyhead isn’t quite ready to face the morning yet. He was just having a totally awesome dream about adventuring in a magical world full of colorful knights with swords that shoot lightning…or was it the one about the time machine powered by historical hats?
+
+Who can rise and shine when bed is so comfy and you’ve got your favorite teddy bear by your side? Don’t worry; the Sleepyhead will be up in a minute. Maybe he’ll just close his eyes and grab a quick nap first, though. After all, you can’t get through the day without plenty of rest! Zzzzz…</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>0</integer>
+</dict>
+</plist>

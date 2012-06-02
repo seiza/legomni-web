@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Boxer</string>
+	<key>Index</key>
+	<integer>13</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Boxer.aspx</string>
+	<key>Slogan</key>
+	<string>I’m gonna be the greatest!</string>
+	<key>Description</key>
+	<string>The Boxer’s fancy footwork and lightning-fast fists have earned him fans all over the world – but his biggest fan of all is the Boxer! He’s convinced that he’ll be the best professional prize fighter in the world one day, and his current winning streak suggests that he just might be right.
+
+The Boxer has defeated every opponent he’s faced in the ring so far, and he’s always looking for the next big challenge. He was even hoping to box a kangaroo until he was told that was only something that happened in cartoons. He’s convinced that if science would just invent the perfect cloning machine, he could finally box against the one person who could give him a tough match: himself! </string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -2,14 +2,14 @@
 
 one:
   user_id: 1
-  figure_id: 1
+  figure_code: 1
   count: 1
   wanted: 1
   first_at: 2012-05-27
 
 two:
   user_id: 1
-  figure_id: 1
+  figure_code: 1
   count: 1
   wanted: 1
   first_at: 2012-05-27

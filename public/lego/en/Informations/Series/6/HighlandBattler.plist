@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Highland Battler</string>
+	<key>Index</key>
+	<integer>2</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Highland%20Battler.aspx</string>
+	<key>Slogan</key>
+	<string>They may take our bricks, but they’ll never take our imagination!</string>
+	<key>Description</key>
+	<string>The Highland Battler is proud of his fighting skills, proud of his strength, and especially proud of his fine plaid kilt. He feels that he is upholding the history and traditions of his whole clan in every challenge he faces, from defending the Highlands to playing board games, and he accepts nothing less than glorious victory at each one.
+
+He considers any kind of loss to be a crushing blow to his honor, and so he strives to be the very best at every competition imaginable, whether great or small. Most importantly, though, he always insists on winning by the rules. To the Highland Battler, there’s only one thing in the world worse than losing – and that’s being a cheater!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

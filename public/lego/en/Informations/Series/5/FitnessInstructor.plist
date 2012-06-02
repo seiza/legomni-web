@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Fitness Instructor</string>
+	<key>Index</key>
+	<integer>10</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Fitness%20Instructor.aspx</string>
+	<key>Slogan</key>
+	<string>Don’t fall down now! We’re just getting warmed up!</string>
+	<key>Description</key>
+	<string>The Fitness Instructor has devoted herself to one thing and one thing only: getting people in great shape! With the help of a boom-box full of energetic workout tunes and a wall full of degrees in aerobics, yoga and more, she leads fitness sessions and promotes good health wherever she goes.
+
+With her endless energy and enthusiasm, the Fitness Instructor makes exercise look like so much fun that you just can’t resist joining in. But if you do, be prepared for the workout of a lifetime, because she’ll keep going and going long after everybody else is ready to drop from exhaustion!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

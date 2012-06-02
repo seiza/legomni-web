@@ -1,11 +1,11 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  number: 1
+  index: 1
   color: MyString
   url: MyString
 
 two:
-  number: 1
+  index: 1
   color: MyString
   url: MyString

@@ -13,13 +13,14 @@
 
 ActiveRecord::Schema.define(:version => 20120527152313) do
 
-  create_table "figures", :force => true do |t|
-    t.integer  "series_id"
-    t.integer  "number"
+  create_table "figures", :id => false, :force => true do |t|
+    t.string   "figure_code", :null => false
+    t.string   "series_code"
+    t.integer  "index"
     t.string   "name"
     t.string   "url"
     t.string   "slogan"
-    t.string   "description"
+    t.text     "description"
     t.integer  "strength"
     t.integer  "creativity"
     t.integer  "speed"
@@ -27,8 +28,8 @@ ActiveRecord::Schema.define(:version => 20120527152313) do
     t.datetime "updated_at",  :null => false
   end
 
-  create_table "series", :force => true do |t|
-    t.integer  "number"
+  create_table "series", :primary_key => "series_code", :force => true do |t|
+    t.integer  "index"
     t.string   "color"
     t.string   "url"
     t.datetime "created_at", :null => false
@@ -37,12 +38,12 @@ ActiveRecord::Schema.define(:version => 20120527152313) do
 
   create_table "user_figures", :force => true do |t|
     t.integer  "user_id"
-    t.integer  "figure_id"
+    t.integer  "figure_code"
     t.integer  "count"
     t.integer  "wanted"
     t.date     "first_at"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
   end
 
   create_table "users", :force => true do |t|

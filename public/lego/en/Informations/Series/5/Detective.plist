@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Detective</string>
+	<key>Index</key>
+	<integer>11</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Detective.aspx</string>
+	<key>Slogan</key>
+	<string>Why, the solution is as simple as clicking two bricks together!</string>
+	<key>Description</key>
+	<string>If you’ve got a major mystery to solve, the Detective is your minifigure. He’s famed across the land for his amazing deductive skills, and he never gives up on a case, no matter how impossible it may at first appear. He just whips out his magnifying glass, follows the clues, and always arrives at the right solution in the end.
+
+You may have heard of some of the Detective’s most famous cases. He’s the one who single-handedly solved the Brickster’s Baffling Brick-Napping, the Sam Sinister Switcheroo, and the Mystery of Timmy’s Nose. Why, he even tracked down a missing pet from the Racing Drome…and robot monkeys don’t leave footprints!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

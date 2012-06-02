@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Evil Dwarf</string>
+	<key>Index</key>
+	<integer>12</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Evil%20Dwarf.aspx</string>
+	<key>Slogan</key>
+	<string>Nobody mocks my beard!</string>
+	<key>Description</key>
+	<string>Whatever you do, don’t make fun of the Evil Dwarf’s beard! You can tell him his armor is squeaky, his axe is rusty or his iron helmet is totally unfashionable for modern dwarf society, and he’ll just grin and laugh. But say one word about his prized whiskers and you’d better hope you can run away fast!
+
+Ever since he was a lad in the deep-down Dwarven Kingdom, the Evil Dwarf has been proud of his bristling black beard. It turned him into quite the bully! Imagine his surprise when he discovered that not everybody on the surface respected fine follicle growth. Now the Evil Dwarf sells his formidable battle skills to whoever offers him the most gold – as long as they never, ever belittle the beard!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>5</integer>
+</dict>
+</plist>

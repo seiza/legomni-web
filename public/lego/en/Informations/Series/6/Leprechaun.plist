@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Leprechaun</string>
+	<key>Index</key>
+	<integer>9</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Leprechaun.aspx</string>
+	<key>Slogan</key>
+	<string>Sure, I’ll show you where my gold is hidden! Just close your eyes and spin around three times…</string>
+	<key>Description</key>
+	<string>The jolly but mischievous Leprechaun loves to play pranks on anyone who comes looking for his famous pot of gold. He can appear with a wink and vanish with a nod, hop down a rabbit-hole or leap to the top of the tallest tree, and even transform into a talking animal if it will help him pull off a really fun practical joke on an unsuspecting treasure-hunter.
+
+The Leprechaun once misplaced his pot of gold and tried his luck at being a shoemaker, but it just didn’t work out. The problem was, almost no Minifigures actually wear shoes…and on most of the ones that do, they don’t come off!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

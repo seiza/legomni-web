@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Bandit</string>
+	<key>Index</key>
+	<integer>5</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Bandit.aspx</string>
+	<key>Slogan</key>
+	<string>Whaddya mean, I can’t have seven aces?</string>
+	<key>Description</key>
+	<string>Lean, mean and bad-mannered, the black-clad Bandit is a notorious outlaw of the Old West. This despicable desperado is an expert at cattle-rustling, horse-stealing, claim-jumping and train-robbing, but he always ends up getting caught by the long arm of the law thanks to his one big weakness: he cheats at everything.
+
+Whether he’s playing cards or trying to outride the sheriff, the Bandit always looks for the unfair and easy path to fortune. He’ll take secret shortcuts that get him stuck in cactus patches, swipe the fastest stallion in the county only to have it throw a shoe, and rig sharp-shooting contests that end with saloon signs crashing down on his head. As long as he keeps trying to cheat, this bad guy will never win!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

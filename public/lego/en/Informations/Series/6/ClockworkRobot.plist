@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Clockwork Robot</string>
+	<key>Index</key>
+	<integer>7</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Clockwork%20Robot.aspx</string>
+	<key>Slogan</key>
+	<string>Beep-boop! Who-wants-a-hug?</string>
+	<key>Description</key>
+	<string>The Clockwork Robot just wants to be loved. He may have started out as a simple toy, but somewhere along the way his little ticking heart took on a life of its very own. Now that he can walk and talk and think (as long as somebody remembers to keep his key wound up), he’s hoping to find his true place in the big LEGO® world.
+
+But what does a Clockwork Robot do? He can walk around making beeping sounds, and he has lots of shiny buttons and dials, but he feels there must be more to life. He’s tried copying some of the other Minifigures, but he kept falling off his horse, deep-sea diving made his gears rusty, and masked wrestling was definitely a big mistake. Maybe he’ll just try hugging everybody he sees instead!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

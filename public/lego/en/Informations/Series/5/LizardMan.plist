@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Lizard Man</string>
+	<key>Index</key>
+	<integer>6</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Lizard%20Man.aspx</string>
+	<key>Slogan</key>
+	<string>Stomp stomp stomp! Flee, tiny citizens! Flee!</string>
+	<key>Description</key>
+	<string>The Lizard Man lives to trample cities beneath his big green feet. Of course, since he’s really just a minifigure of normal size wearing a lizard suit, that’s not as easy as it sounds…so instead, he spends hours building his own meticulously detailed miniature buildings and then stomping all over them while making roaring noises.
+
+When your greatest dream is to be a giant monster, it’s tough to find new hobbies. The Lizard Man sometimes thinks about becoming a professional wrestler, but the Gorilla Suit Guy never writes back to any of his challenges. On the other hand, rumor has it that the Super Wrestler would be happy to take him up on the offer anytime!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

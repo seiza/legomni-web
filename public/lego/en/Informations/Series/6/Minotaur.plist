@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Minotaur</string>
+	<key>Index</key>
+	<integer>8</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Minotaur.aspx</string>
+	<key>Slogan</key>
+	<string>Wait, was it left at the next passage, or right?</string>
+	<key>Description</key>
+	<string>Half Minifigure and half bull, the legendary Minotaur is said to make his home deep within a great, maze-like labyrinth that only the most brave or foolish of heroes dares to enter. And while that much is true, the rumor that the ferocious beast guards a fabulous treasure is not…in fact, he’s only in there because he can’t find his way out!
+
+The thing is that the Minotaur is just terrible at directions. He used to have a map of the place, but he lost it somewhere and ever since, he’s wandered around the labyrinth hoping to run into somebody helpful who can show him where the entrance is. Unfortunately, everyone that he’s met so far either tries to fight him or runs away. Maybe it’s the horns…or the axe…or the cow-breath?</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>1</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

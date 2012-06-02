@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Skater Girl</string>
+	<key>Index</key>
+	<integer>12</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Skater%20Girl.aspx</string>
+	<key>Slogan</key>
+	<string>Who cares what anybody thinks? I skate for me!</string>
+	<key>Description</key>
+	<string>Some Minifigures skate for fame. Others skate for thrills. But for the Skater Girl, it’s all about having fun! It doesn’t matter what anyone else thinks about her skating skills as long as she can feel two things: the wind whipping through her streaked hair, and her custom-painted board beneath her feet.
+
+But sometimes the more you try to avoid attention, the more of it you end up getting. Thanks to her carefree attitude, the Skater Girl has gained a huge fandom devoted to discussing all of her latest skateboarding tricks and stunts. But she doesn’t care – they can say whatever they want, and she’ll just keep on doing her own thing her own way!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

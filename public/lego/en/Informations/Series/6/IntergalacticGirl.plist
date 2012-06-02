@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Intergalactic Girl</string>
+	<key>Index</key>
+	<integer>13</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Intergalactic%20Girl.aspx</string>
+	<key>Slogan</key>
+	<string>No thanks needed. I’m just doing my part to make the spaceways safe!</string>
+	<key>Description</key>
+	<string>The name of the Intergalactic Girl is cheered by life forms on every inhabited planet, moon, space station and asteroid in the cosmos. As an interstellar adventurer, she and her daring outer-space exploits are the stuff of legend throughout the known universe, and even a few of the unknown bits, too.
+
+With nothing but a quasar zapper, a pair of antigravity boots and a can-do attitude, the Intergalactic Girl has single-handedly saved solar systems from black holes, rescued civilizations from cosmic conquerors and captured entire fleets of Blacktron battle cruisers. She never has time to stay for the celebrations afterwards, though, because there’s always another space crisis waiting just around the next nebula!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

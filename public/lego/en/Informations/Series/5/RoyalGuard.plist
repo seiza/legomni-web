@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Royal Guard</string>
+	<key>Index</key>
+	<integer>3</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Royal%20Guard.aspx</string>
+	<key>Slogan</key>
+	<string>Sorry, sir! I’m not allowed to speak!</string>
+	<key>Description</key>
+	<string>The steadfast Royal Guard is utterly devoted to his job as a protector of the palace and the royal family. In rain or shine, in hot summer sun or freezing winter night, he can always be found standing at his post at perfect attention, staring straight ahead with his tall, furry hat on his head and his ceremonial rifle in place at his shoulder.
+
+No matter how much you try to distract the Royal Guard, he’ll never even blink an eye. You can tell him jokes, dress up in silly costumes and even try to tickle him, but he won’t move at all. He and his fellow guards are silent, stalwart sentinels, never uttering a word aloud – and that’s exactly what he’ll tell you if you ask him!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

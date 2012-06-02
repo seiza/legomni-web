@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Gladiator</string>
+	<key>Index</key>
+	<integer>2</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Gladiator.aspx</string>
+	<key>Slogan</key>
+	<string>Can’t we all just get along?</string>
+	<key>Description</key>
+	<string>The Gladiator has trained all his life with his sword and shield, and there are few more skilled at battling warriors and wild beasts in the arena. He knows it is his duty to thrill the audience with an action-packed display of fighting prowess, and he has proven himself a champion over and over again.
+
+But sometimes, deep down inside, the Gladiator wonders if there might be other kinds of entertainment out there. Something that isn’t quite so hot and tiring. Something where you never get poked with the pointy end of a trident. If only something like that existed, maybe – just maybe – he might find himself an easier line of work!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

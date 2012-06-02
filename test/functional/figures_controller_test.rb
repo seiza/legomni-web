@@ -18,7 +18,7 @@ class FiguresControllerTest < ActionController::TestCase
 
   test "should create figure" do
     assert_difference('Figure.count') do
-      post :create, figure: { creativity: @figure.creativity, description: @figure.description, name: @figure.name, number: @figure.number, series_id: @figure.series_id, slogan: @figure.slogan, speed: @figure.speed, strength: @figure.strength, url: @figure.url }
+      post :create, figure: { figure_code: @figure.figure_code, creativity: @figure.creativity, description: @figure.description, name: @figure.name, index: @figure.index, series_code: @figure.series_code, slogan: @figure.slogan, speed: @figure.speed, strength: @figure.strength, url: @figure.url }
     end
 
     assert_redirected_to figure_path(assigns(:figure))
@@ -35,7 +35,7 @@ class FiguresControllerTest < ActionController::TestCase
   end
 
   test "should update figure" do
-    put :update, id: @figure, figure: { creativity: @figure.creativity, description: @figure.description, name: @figure.name, number: @figure.number, series_id: @figure.series_id, slogan: @figure.slogan, speed: @figure.speed, strength: @figure.strength, url: @figure.url }
+    put :update, id: @figure, figure: { creativity: @figure.creativity, description: @figure.description, name: @figure.name, index: @figure.index, series_code: @figure.series_code, slogan: @figure.slogan, speed: @figure.speed, strength: @figure.strength, url: @figure.url }
     assert_redirected_to figure_path(assigns(:figure))
   end
 

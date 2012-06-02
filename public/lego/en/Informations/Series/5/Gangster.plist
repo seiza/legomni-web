@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Gangster</string>
+	<key>Index</key>
+	<integer>15</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Gangster.aspx</string>
+	<key>Slogan</key>
+	<string>Stick ‘em up and hand over all your – aw no, it’s the cops again!</string>
+	<key>Description</key>
+	<string>The Gangster is a low-down, sneaky, rotten crook. Impeccably dressed in his pinstripe suit and hat, his trick violin case always at his side, he sneaks around the city setting up scams, bank robberies and protection rackets wherever he can…or at least, that’s the plan.
+
+The problem with being a no-good criminal in LEGO CITY is that the place is just chock full of police stations. You can hardly turn a corner without running into a friendly officer or three out on patrol. So as much as the Gangster may try to make his fortune through unlawful acts, he usually finds himself spending a lot more time fleeing than committing felonies!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Mechanic</string>
+	<key>Index</key>
+	<integer>15</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Mechanic.aspx</string>
+	<key>Slogan</key>
+	<string>Sure, I can fix that…but wouldn’t it be even cooler with a rocket engine?</string>
+	<key>Description</key>
+	<string>Nobody is better at quick repairs than the Mechanic. He can fix any dent, ding, rumble or rattle with his handy wrench and toolbox, and he doesn’t mind getting dirty in the process. No matter the problem, he’ll have your vehicle running as good as new in no time flat...but he never quite seems to know where to stop!
+
+To the Mechanic, there’s no auto in the world that wouldn’t be improved by adding a couple of stylish fins, a fancy spoiler and a big engine on top of the hood. And while he’s at it, he might just put in a submarine propeller, some ejector seats, a couple of extra wheels and a booster rocket or three. If that’s what he does with a car, imagine what he’ll do with a spaceship!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

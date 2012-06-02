@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Lady Liberty</string>
+	<key>Index</key>
+	<integer>4</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Lady%20Liberty.aspx</string>
+	<key>Slogan</key>
+	<string>Give me your tired, your poor, your huddled Minifigures yearning to build free!</string>
+	<key>Description</key>
+	<string>Lady Liberty is a symbol of creative freedom to all Minifigures, no matter their theme of origin. Holding her torch up high – and sometimes waving it around when she gets really excited – she is a beacon of inspiration to all who see her.
+
+Lady Liberty protects against oppression of all kinds. Villains and tyrants may try to topple her, but she always stands tall (well, as tall as any Minifigure, anyway), stirring the hearts of patriotic citizens everywhere to build bigger and grander brick creations than ever before.</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>0</integer>
+</dict>
+</plist>

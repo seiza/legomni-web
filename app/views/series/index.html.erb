@@ -2,8 +2,8 @@
 
 <table>
   <tr>
-    <th>ID</th>
-    <th>Number</th>
+    <th>Code</th>
+    <th>Index</th>
     <th>Color</th>
     <th>Url</th>
     <th></th>
@@ -13,8 +13,8 @@
 
 <% @series.each do |series| %>
   <tr>
-    <td><%= series.id %></td>
-    <td><%= series.number %></td>
+    <td><%= series.series_code %></td>
+    <td><%= series.index %></td>
     <td><%= series.color %></td>
     <td><%= series.url %></td>
     <td><%= link_to 'Show', series %></td>

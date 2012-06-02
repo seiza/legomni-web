@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Snowboarder Guy</string>
+	<key>Index</key>
+	<integer>16</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Snowboarder%20Guy.aspx</string>
+	<key>Slogan</key>
+	<string>Is that the new 80-3RX? I’ve been waiting to try this baby out!</string>
+	<key>Description</key>
+	<string>The Snowboarder Guy knows everything there is to know about wind speed, slope angle and exactly how much wax to put on your board for the smoothest ride, and he puts his knowledge to good use by being the very best snowboard tester in the world.
+
+If you’ve come up with a brand-new board design, the Snowboarder Guy is just the guy to check it out. He’ll put it through its paces with an amazing series of snowboarding moves, and finish up by telling you just how it compares to all the other models out there. Better hope you’ve made a good one, though, because he never holds back with his opinion!</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>5</integer>
+</dict>
+</plist>

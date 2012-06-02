@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Genie</string>
+	<key>Index</key>
+	<integer>16</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Genie.aspx</string>
+	<key>Slogan</key>
+	<string>I’ll grant your wish…your wish for bricks!</string>
+	<key>Description</key>
+	<string>Rub the magic lamp and this friendly Genie will pop out to grant your wishes*…as long as they have to do with LEGO® bricks! Want a big enough pile of pieces to build a perfect full-scale model of the Great Wall of China? No problem! Looking for that long-lost LEGO Castle set you left in the playground when you were 5 and never saw again? Your wish is his command!
+
+There’s only one limitation on the Genie’s incredible magical powers: he doesn’t do instruction booklets. He’ll give you all the bricks you could possibly want, but it’s up to you to figure out what to do with them. Ask him why, and he’ll just tell you that building steps are another genie’s department!
+
+(*wish-granting requires use of imagination)</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>5</integer>
+</dict>
+</plist>

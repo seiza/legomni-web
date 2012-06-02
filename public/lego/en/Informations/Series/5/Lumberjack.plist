@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Lumberjack</string>
+	<key>Index</key>
+	<integer>8</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Lumberjack.aspx</string>
+	<key>Slogan</key>
+	<string>I’m okay!</string>
+	<key>Description</key>
+	<string>The rugged Lumberjack is a true man of the outdoors. He builds his own log cabins, tends his own campfires, cooks his own stews and brews his own maple syrup. The only times he ever goes back to the big city are when he needs to drop off a load of freshly-cut lumber or buy a new cap because his last one got eaten by a bear.
+
+Although the Lumberjack is strong of arm and staunch of heart, he isn’t always the best at aiming trees the right way when he chops them down with his shiny axe. Half the time, they end up crashing right down on top of him – so it’s probably a good thing he’s also pretty hard of head!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

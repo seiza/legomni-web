@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Graduate</string>
+	<key>Index</key>
+	<integer>1</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Graduate.aspx</string>
+	<key>Slogan</key>
+	<string>I did it! I finally did it!</string>
+	<key>Description</key>
+	<string>The Graduate loved everything about college. The classes, the teachers, and even the homework and the late nights of studying…it’s been an amazing journey, and it’s all led to this single long-awaited, triumphant moment of his name being called on Graduation Day.
+
+The Graduate would like to thank his family, his professors and his friends. He couldn’t have done it without them! And now that he stands here in his robe and graduation cap, clutching his precious, hard-earned diploma in his hand, he looks out at all the people watching him and one single thought fills his mind: oh man, now he’s got to go find a job!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

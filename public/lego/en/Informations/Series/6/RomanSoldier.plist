@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Roman Soldier</string>
+	<key>Index</key>
+	<integer>10</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Roman%20Soldier.aspx</string>
+	<key>Slogan</key>
+	<string>I’ll march anywhere, fight anyone, and build anything you command!</string>
+	<key>Description</key>
+	<string>Ever since he was first assembled, the Roman Soldier has followed his orders without a moment’s hesitation. Just tell him what you want done and he’ll carry out your command right away, treating each mission as equally important no matter how tough (or silly!) it may be.
+
+The other Minifigures sometimes take advantage of this, so you may find the Roman Soldier hard at work doing the dishes, taking pets for walks and building aqueducts all over town, just because somebody else didn’t want to get their own chores done. But he doesn’t mind the extra work – according to him, that’s what a Roman Soldier is for!</string>
+	<key>SkillStrength</key>
+	<integer>5</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -18,7 +18,7 @@ class SeriesControllerTest < ActionController::TestCase
 
   test "should create series" do
     assert_difference('Series.count') do
-      post :create, series: { color: @series.color, number: @series.number, url: @series.url }
+      post :create, series: { color: @series.color, index: @series.index, url: @series.url }
     end
 
     assert_redirected_to series_path(assigns(:series))
@@ -35,7 +35,7 @@ class SeriesControllerTest < ActionController::TestCase
   end
 
   test "should update series" do
-    put :update, id: @series, series: { color: @series.color, number: @series.number, url: @series.url }
+    put :update, id: @series, series: { color: @series.color, index: @series.index, url: @series.url }
     assert_redirected_to series_path(assigns(:series))
   end
 

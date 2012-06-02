@@ -3,7 +3,7 @@
 <table>
   <tr>
     <th>Series</th>
-    <th>Number</th>
+    <th>index</th>
     <th>Name</th>
     <th>Url</th>
     <th>Slogan</th>
@@ -18,10 +18,10 @@
 
 <% @figures.each do |figure| %>
   <tr>
-    <td><%= figure.series_id %></td>
-    <td><%= figure.number %></td>
+    <td><%= figure.series_code %></td>
+    <td><%= figure.index %></td>
     <td><%= figure.name %></td>
-    <td><%= figure.url %></td>
+    <td><%= link_to figure.url, figure.url, :target => "_blank" %></td>
     <td><%= figure.slogan %></td>
     <td><%= figure.description %></td>
     <td><%= figure.strength %></td>

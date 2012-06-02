@@ -1,12 +1,13 @@
 class CreateFigures < ActiveRecord::Migration
   def change
-    create_table :figures do |t|
-      t.integer :series_id
-      t.integer :number
+    create_table :figures, :id => false, :primary_key => "figure_code" do |t|
+      t.string :figure_code, :null => false
+      t.string :series_code
+      t.integer :index
       t.string :name
       t.string :url
       t.string :slogan
-      t.string :description
+      t.text :description
       t.integer :strength
       t.integer :creativity
       t.integer :speed

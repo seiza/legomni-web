@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Surgeon</string>
+	<key>Index</key>
+	<integer>11</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Surgeon.aspx</string>
+	<key>Slogan</key>
+	<string>Some say laughter is the best medicine, but I say MEDICINE is the best medicine.</string>
+	<key>Description</key>
+	<string>Nothing distracts the ever-serious Surgeon when she’s performing an important operation. She works with a level head and a steady hand despite any rock monster rumblings, dinosaur attacks or invasions by brain-sucking aliens that may be going on around her.
+
+Then again, it’s no surprise when you see who her patients are. Without the Surgeon’s pioneering work, modern medicine wouldn’t know how to mend a rock monster’s lava gland, perform a tonsillectomy on a Triceratops, or stuff all of that brainpower back where it belongs. It all may seem a bit unusual, but to the Surgeon, a patient is a patient no matter the circumstances!</string>
+	<key>SkillStrength</key>
+	<integer>1</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

@@ -2,12 +2,12 @@
 
 <p>
   <b>Series:</b>
-  <%= @figure.series_id %>
+  <%= @figure.series_code %>
 </p>
 
 <p>
-  <b>Number:</b>
-  <%= @figure.number %>
+  <b>Index:</b>
+  <%= @figure.index %>
 </p>
 
 <p>
@@ -17,7 +17,7 @@
 
 <p>
   <b>Url:</b>
-  <%= @figure.url %>
+  <%= link_to @figure.url, @figure.url, :target => "_blank" %>
 </p>
 
 <p>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Egyptian Queen</string>
+	<key>Index</key>
+	<integer>14</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Egyptian%20Queen.aspx</string>
+	<key>Slogan</key>
+	<string>Asp me no questions, and I shall tell you no lies.</string>
+	<key>Description</key>
+	<string>The Egyptian Queen is used to the finer things in life, but don’t think for a moment that it’s made her soft! She may have a golden throne, banquets five times a day and legions of loyal servants to obey her every command, but she also knows all about tax codes, crop rotation and pyramid construction regulations, not to mention the ancient game of politics.
+
+The Egyptian Queen loves to disguise herself as a commoner and listen to what her subjects are saying about her. Of course, since everybody knows what she looks like (she’s on all the coins and statues, after all), they’re always careful to say only nice things. It isn’t too hard, since for an all-powerful sovereign, she’s really not too bad!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>3</integer>
+	<key>SkillSpeed</key>
+	<integer>2</integer>
+</dict>
+</plist>

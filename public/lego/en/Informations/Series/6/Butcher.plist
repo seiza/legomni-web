@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Butcher</string>
+	<key>Index</key>
+	<integer>14</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Butcher.aspx</string>
+	<key>Slogan</key>
+	<string>Howdy! How about some meat?</string>
+	<key>Description</key>
+	<string>The Butcher is a cheerful chap in his tidy hat and apron, always happy to chat about the weather or pass on the latest news from town. But no matter how a conversation with him starts, somehow it always ends up coming around to the subject of meat.
+
+It’s really no surprise; after all, it’s the Butcher’s very favorite thing in the entire world. Whether you’re talking poultry or sausage, hamburger patties or a fresh T-bone steak, you’ll never find anybody who knows more about meat. Ask around and you’ll see!</string>
+	<key>SkillStrength</key>
+	<integer>4</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

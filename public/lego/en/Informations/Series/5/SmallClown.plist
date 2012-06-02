@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Small Clown</string>
+	<key>Index</key>
+	<integer>9</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Small%20Clown.aspx</string>
+	<key>Slogan</key>
+	<string>Hey! Did somebody here order a PIE?</string>
+	<key>Description</key>
+	<string>The Small Clown is totally serious about making people laugh. He’s memorized every joke book in the library, subscribes to several clowning magazines, and has a graduate degree in Advanced Mirth from Clown University. His philosophy is that if you’re not laughing, he’s not doing his job right.
+
+The way he sees it, he may be just a small clown, but he’s got really big shoes to fill. All of the famous and beloved clowns of yesteryear are counting on him to uphold their classic traditions of hilarity, and he doesn’t want to let them down. That’s why he rehearses hard to have the very best and funniest clown routines around. Plus, it lets him hit people with pies!</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>5</integer>
+	<key>SkillSpeed</key>
+	<integer>3</integer>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Ice Fisherman</string>
+	<key>Index</key>
+	<integer>4</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Ice%20Fisherman.aspx</string>
+	<key>Slogan</key>
+	<string>Wait, and all good things will come to you.</string>
+	<key>Description</key>
+	<string>The Ice Fisherman might be the most patient person in the world. He’ll carefully choose just the right spot on the ice to drill a hole, then he’ll lower his fishing line and wait…and wait…and wait. He might wait for hours. He might wait for days. Sometimes he even waits for weeks! But eventually, there’s always a tug on the line and up pops his catch.
+
+It’s not just fish, though. It seems like the longer the Ice Fisherman waits there at his little hole in the ice, the better the thing he catches will be. He once caught a ship in a bottle. Another time, it was a treasure chest full of gold and jewels. And once, after three long months of sitting and waiting through the cold Arctic winter, he even fished up a magic lamp with a wish-granting genie. (The first thing he wished for? A warmer coat!)</string>
+	<key>SkillStrength</key>
+	<integer>3</integer>
+	<key>SkillCreativity</key>
+	<integer>2</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>

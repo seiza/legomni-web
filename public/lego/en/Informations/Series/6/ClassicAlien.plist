@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Name</key>
+	<string>Classic Alien</string>
+	<key>Index</key>
+	<integer>1</integer>
+	<key>URL</key>
+	<string>http://minifigures.lego.com/en-us/Bios/Classic%20Alien.aspx</string>
+	<key>Slogan</key>
+	<string>The truth is around here somewhere!</string>
+	<key>Description</key>
+	<string>The pyramids? These guys built them. The microwave? They invented it. Elvis? Got him right up there on the mothership. All of those totally out-there conspiracy theories about little gray men from outer space are absolutely 100% true – or at least, that’s what the Classic Alien believes.
+
+You see, he’s been out of communication with the home planet for a while (thanks to that whole Area 51 thing), and all of his recent news has come from what he’s read in supermarket tabloids and seen on the internet. Those reporters and bloggers really seem to know their stuff, so he figures they must have the real scoop. After all, if it’s not all true, then what’s he even doing here?</string>
+	<key>SkillStrength</key>
+	<integer>2</integer>
+	<key>SkillCreativity</key>
+	<integer>4</integer>
+	<key>SkillSpeed</key>
+	<integer>4</integer>
+</dict>
+</plist>
