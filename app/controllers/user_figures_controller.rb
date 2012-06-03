@@ -1,4 +1,13 @@
 class UserFiguresController < ApplicationController
+
+  def user_figure_by_code_or_id(params)
+    id = params[:id]
+    figure_code = params[:figure_code]
+    return UserFigure.find(params[:id]) if id
+    return UserFigure.find_by_figure_code( params[:figure_code] ) if figure_code
+    return UserFigure.find_by_figure_code( "#{params[:series_index]}-#{params[:figure_index]}" )
+  end
+
   # GET /user_figures
   # GET /user_figures.json
   def index
@@ -13,7 +22,7 @@ class UserFiguresController < ApplicationController
   # GET /user_figures/1
   # GET /user_figures/1.json
   def show
-    @user_figure = UserFigure.find(params[:id])
+    @user_figure = self.user_figure_by_code_or_id(params)
 
     respond_to do |format|
       format.html # show.html.erb
@@ -34,7 +43,7 @@ class UserFiguresController < ApplicationController
 
   # GET /user_figures/1/edit
   def edit
-    @user_figure = UserFigure.find(params[:id])
+    @user_figure = self.user_figure_by_code_or_id(params)
   end
 
   # POST /user_figures

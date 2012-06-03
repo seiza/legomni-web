@@ -1,13 +1,32 @@
 Legomni::Application.routes.draw do
+
+  # match ':controller(/:action(/:id))'
+  # match ':controller/:action/:id/:user_id'
+
   resources :devices
 
   resources :user_figures
 
   resources :figures
 
-  resources :series
+  resources :series do
+    resources :figures
+  end
 
-  resources :users
+  # /users/1/figures/3
+  # match "/users/:user_id/figures/:figure_code" => redirect("%{scope}_authenticate/create")
+  match "users/:user_id/series/:series_index/figures/:figure_index" => redirect("/user_figures/show/%{user_id}/%{series_index}/%{figure_index}")
+  match "users/:user_id/figures/:figure_code" => redirect("/user_figures/show/%{user_id}/%{figure_code}")
+  resources :users do
+    resources :user_figures
+    resources :devices
+
+    # get 'preview', :on => :member
+    # get 'search', :on => :collection
+  end
+
+  match ":controller/:action/:user_id/:figure_code"
+  match ":controller/:action/:user_id/:series_index/:figure_index"
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
