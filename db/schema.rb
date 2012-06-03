@@ -14,9 +14,9 @@
 ActiveRecord::Schema.define(:version => 20120603034216) do
 
   create_table "devices", :force => true do |t|
-    t.string   "name"
-    t.string   "udid"
-    t.integer  "user_id"
+    t.string   "name",       :null => false
+    t.string   "udid",       :null => false
+    t.integer  "user_id",    :null => false
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
@@ -46,7 +46,7 @@ ActiveRecord::Schema.define(:version => 20120603034216) do
 
   create_table "user_figures", :force => true do |t|
     t.integer  "user_id"
-    t.integer  "figure_code"
+    t.string   "figure_code"
     t.integer  "count"
     t.integer  "wanted"
     t.integer  "give"

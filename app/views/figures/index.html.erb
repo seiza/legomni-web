@@ -2,6 +2,7 @@
 
 <table>
   <tr>
+    <th>Code</th>
     <th>Series</th>
     <th>index</th>
     <th>Name</th>
@@ -18,6 +19,7 @@
 
 <% @figures.each do |figure| %>
   <tr>
+    <td><%= figure.figure_code %></td>
     <td><%= figure.series_code %></td>
     <td><%= figure.index %></td>
     <td><%= figure.name %></td>

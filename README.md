@@ -6,6 +6,9 @@ Manage your LEGO miniFigures from this web site
 
 > bundle install --path vendor/bundle
 
+> rake legomni:bootstrap
+
+
 
 h2. Tips
 

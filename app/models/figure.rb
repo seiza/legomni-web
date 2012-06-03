@@ -2,6 +2,7 @@ class Figure < ActiveRecord::Base
   attr_accessible :figure_code, :series_code, :index, :creativity, :description, :name, :slogan, :speed, :strength, :url
   self.primary_key = "figure_code"
   belongs_to :series
+  has_many :user_figures
 
   # => {"plist"=>{"version"=>"1.0", "dict"=>{
   #"key"=>["Name", "Index", "URL", "Slogan", "Description", "SkillStrength", "SkillCreativity", "SkillSpeed"],
