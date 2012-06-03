@@ -5,7 +5,8 @@
     <th>User</th>
     <th>Figure</th>
     <th>Count</th>
-    <th>Wanted</th>
+    <th>Wanted?</th>
+    <th>Give?</th>
     <th>First at</th>
     <th></th>
     <th></th>
@@ -18,6 +19,7 @@
     <td><%= user_figure.figure_code %></td>
     <td><%= user_figure.count %></td>
     <td><%= user_figure.wanted %></td>
+    <td><%= user_figure.give %></td>
     <td><%= user_figure.first_at %></td>
     <td><%= link_to 'Show', user_figure %></td>
     <td><%= link_to 'Edit', edit_user_figure_path(user_figure) %></td>

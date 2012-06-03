@@ -18,7 +18,7 @@ class UserFiguresControllerTest < ActionController::TestCase
 
   test "should create user_figure" do
     assert_difference('UserFigure.count') do
-      post :create, user_figure: { count: @user_figure.count, figure_code: @user_figure.figure_code, first_at: @user_figure.first_at, user_id: @user_figure.user_id, wanted: @user_figure.wanted }
+      post :create, user_figure: { count: @user_figure.count, figure_code: @user_figure.figure_code, first_at: @user_figure.first_at, user_id: @user_figure.user_id, wanted: @user_figure.wanted, give: @user_figure.give }
     end
 
     assert_redirected_to user_figure_path(assigns(:user_figure))
@@ -35,7 +35,7 @@ class UserFiguresControllerTest < ActionController::TestCase
   end
 
   test "should update user_figure" do
-    put :update, id: @user_figure, user_figure: { count: @user_figure.count, figure_code: @user_figure.figure_code, first_at: @user_figure.first_at, user_id: @user_figure.user_id, wanted: @user_figure.wanted }
+    put :update, id: @user_figure, user_figure: { count: @user_figure.count, figure_code: @user_figure.figure_code, first_at: @user_figure.first_at, user_id: @user_figure.user_id, wanted: @user_figure.wanted, give: @user_figure.give }
     assert_redirected_to user_figure_path(assigns(:user_figure))
   end
 

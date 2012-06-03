@@ -5,6 +5,7 @@ one:
   figure_code: 1
   count: 1
   wanted: 1
+  give: 1
   first_at: 2012-05-27
 
 two:
@@ -12,4 +13,5 @@ two:
   figure_code: 1
   count: 1
   wanted: 1
+  give: 1
   first_at: 2012-05-27

@@ -5,6 +5,7 @@ class CreateUserFigures < ActiveRecord::Migration
       t.integer :figure_code
       t.integer :count
       t.integer :wanted
+      t.integer :give
       t.date :first_at
 
       t.timestamps

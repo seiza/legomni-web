@@ -41,6 +41,7 @@ ActiveRecord::Schema.define(:version => 20120527152313) do
     t.integer  "figure_code"
     t.integer  "count"
     t.integer  "wanted"
+    t.integer  "give"
     t.date     "first_at"
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
