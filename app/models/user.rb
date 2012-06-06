@@ -1,5 +1,13 @@
 class User < ActiveRecord::Base
-  attr_accessible :city1, :city2, :city3, :email, :firstName, :lastName, :login, :password
+  # Include default devise modules. Others available are:
+  # :token_authenticatable, :confirmable,
+  # :lockable, :timeoutable and :omniauthable
+  devise :database_authenticatable, :registerable,
+         :recoverable, :rememberable, :trackable, :validatable
+
+  # Setup accessible (or protected) attributes for your model
+  attr_accessible :email, :password, :password_confirmation, :remember_me
+  attr_accessible :city1, :city2, :city3, :firstName, :lastName
   has_many :user_figures
   has_many :devices
 end

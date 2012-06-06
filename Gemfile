@@ -32,6 +32,9 @@ end
 
 gem 'jquery-rails'
 
+# Authentication
+gem 'devise'
+
 group :test do
 end
 

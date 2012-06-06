@@ -27,6 +27,11 @@ h3. Mise à jour de la base de données
     * `heroku pg:reset DATABASE --confirm _my_database_`
 
 
+h2. Tests
+
+ rake test
+
+
 h2. Rails
 
 > bundle install --path vendor/bundle

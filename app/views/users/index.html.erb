@@ -3,11 +3,9 @@
 <table>
   <tr>
     <th>ID</th>
-    <th>Login</th>
-    <th>Password</th>
+    <th>Email</th>
     <th>Firstname</th>
     <th>Lastname</th>
-    <th>Email</th>
     <th>City1</th>
     <th>City2</th>
     <th>City3</th>
@@ -19,11 +17,9 @@
 <% @users.each do |user| %>
   <tr>
     <td><%= user.id %></td>
-    <td><%= user.login %></td>
-    <td><%= user.password %></td>
+    <td><%= user.email %></td>
     <td><%= user.firstName %></td>
     <td><%= user.lastName %></td>
-    <td><%= user.email %></td>
     <td><%= user.city1 %></td>
     <td><%= user.city2 %></td>
     <td><%= user.city3 %></td>
@@ -36,4 +32,5 @@
 
 <br />
 
-<%= link_to 'New User', new_user_path %>
+<%= link_to 'New User', new_user_path %> |
+<%= link_to 'Home', root_url %>

@@ -1,5 +1,7 @@
 Legomni::Application.routes.draw do
 
+  devise_for :users, :controllers => { :registrations => "registrations" }
+
   # match ':controller(/:action(/:id))'
   # match ':controller/:action/:id/:user_id'
 
@@ -17,6 +19,7 @@ Legomni::Application.routes.draw do
   # match "/users/:user_id/figures/:figure_code" => redirect("%{scope}_authenticate/create")
   match "users/:user_id/series/:series_index/figures/:figure_index" => redirect("/user_figures/show/%{user_id}/%{series_index}/%{figure_index}")
   match "users/:user_id/figures/:figure_code" => redirect("/user_figures/show/%{user_id}/%{figure_code}")
+  devise_for :users, :path_prefix => 'd'
   resources :users do
     resources :user_figures
     resources :devices
@@ -78,6 +81,7 @@ Legomni::Application.routes.draw do
   # You can have the root of your site routed with "root"
   # just remember to delete public/index.html.
   # root :to => 'welcome#index'
+  root :to => 'home#index'
 
   # See how all your routes lay out with "rake routes"
 

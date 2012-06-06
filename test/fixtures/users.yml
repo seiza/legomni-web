@@ -1,21 +1,17 @@
 # Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
 
 one:
-  login: MyString
-  password: MyString
+  email: 1@email.com
   firstName: MyString
   lastName: MyString
-  email: MyString
   city1: MyString
   city2: MyString
   city3: MyString
 
 two:
-  login: MyString
-  password: MyString
+  email: 2@email.com
   firstName: MyString
   lastName: MyString
-  email: MyString
   city1: MyString
   city2: MyString
   city3: MyString

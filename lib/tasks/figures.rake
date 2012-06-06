@@ -28,7 +28,7 @@ namespace :legomni do
 
   desc "Add me as User and some fake data to start using app"
   task :fake_data => :environment do
-    u = User.create!( :login => "jacques", :firstName => "Jacques", :lastName => "COUVREUR", :email => "jacques@couvreur.me", :city1 => "Geneve" )
+    u = User.create!( :email => "jacques@couvreur.me", :password => "111111", :firstName => "Jacques", :lastName => "COUVREUR", :city1 => "Geneve" )
     UserFigure.create!( :user_id => u.id, :figure_code => "7-3", :count => 3, :wanted => 1, :give => 2 )
     Device.create!( :user_id => u.id, :name => "iPhone 4", :udid => "UI89IUM49FJDUJN4IWIKDD3" )
   end

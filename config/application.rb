@@ -55,5 +55,9 @@ module Legomni
 
     # Version of your assets, change this if you want to expire all your assets
     config.assets.version = '1.0'
+
+    # Set by using 'devise' for authentication because of "deploying Rails 3.1 on Heroku"
+    config.assets.initialize_on_precompile = false
+
   end
 end

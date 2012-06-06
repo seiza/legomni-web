@@ -1,4 +1,13 @@
 class UsersController < ApplicationController
+
+  def update_for_devise(params)
+    if params[:user][:password].blank?
+      params[:user].delete(:password)
+      params[:user].delete(:password_confirmation)
+    end
+    return params
+  end
+
   # GET /users
   # GET /users.json
   def index
@@ -40,6 +49,7 @@ class UsersController < ApplicationController
   # POST /users
   # POST /users.json
   def create
+    update_for_devise(params)
     @user = User.new(params[:user])
 
     respond_to do |format|
@@ -59,6 +69,8 @@ class UsersController < ApplicationController
     @user = User.find(params[:id])
 
     respond_to do |format|
+      update_for_devise(params)
+
       if @user.update_attributes(params[:user])
         format.html { redirect_to @user, notice: 'User was successfully updated.' }
         format.json { head :no_content }
